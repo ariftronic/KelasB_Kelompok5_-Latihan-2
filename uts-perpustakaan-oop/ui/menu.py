@@ -4,8 +4,6 @@ from models.majalah import Majalah
 from models.jurnal import Jurnal
 from models.dvd_dokumenter import DVDDokumenter
 
-# [SOLID] Single Responsibility Principle (SRP): 
-# Class ini khusus mengurus tampilan terminal (UI) dan interaksi user (input/output).
 class MenuUI:
     def __init__(self):
         self.manajemen = ManajemenPerpustakaan()
