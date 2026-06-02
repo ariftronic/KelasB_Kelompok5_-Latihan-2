@@ -140,12 +140,12 @@ python --version
 
 ### Langkah 1 — Clone Repository
 ```bash
-git clone https://github.com/NAMA_USER/NAMA_REPO.git
+git clone https://github.com/ariftronic/KelasB_Kelompok5_-Latihan-2.git
 ```
 
 ### Langkah 2 — Masuk ke Direktori Proyek
 ```bash
-cd NAMA_REPO
+cd KelasB_Kelompok5_-Latihan-2
 ```
 
 ### Langkah 3 — Jalankan Program
